@@ -6,3 +6,6 @@ Extracts key fields (frequency spacing, number of measurements and amplitude dat
 Hopefully this package will:
 * Have multithreading support
 * Outperform existing UFF readers (pyuff for python as well as my own python code)
+
+Currently working on:
+* Base functionality
